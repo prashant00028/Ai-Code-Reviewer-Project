@@ -6,51 +6,51 @@ This project demonstrates API integration, asynchronous programming, and state m
 
 📌 Features
 
-.📝 Code input interface
+. 📝 Code input interface
 
-.⚡ Integration with OpenAI API
+. ⚡ Integration with OpenAI API
 
-.💡 AI-generated suggestions for improvement
+. 💡 AI-generated suggestions for improvement
 
-.🔄 Asynchronous API handling using async/await
+. 🔄 Asynchronous API handling using async/await
+ 
+. 🎯 Clean and responsive UI
 
-.🎯 Clean and responsive UI
-
-.❌ Error handling for failed API requests
+. ❌ Error handling for failed API requests
 
 
 🛠️ Tech Stack
 
-.Frontend: React.js
+. Frontend: React.js
 
-.Language: JavaScript (ES6+)
+. Language: JavaScript (ES6+)
 
-.Styling: CSS
+. Styling: CSS
 
-.API: OpenAI API
+. API: OpenAI API
 
-.Tools: Git, GitHub
+. Tools: Git, GitHub
 
 
 🧠 How It Works
 
-.User enters code into the input field
+. User enters code into the input field
 
-.On clicking "Review", the application sends the code to OpenAI API
+. On clicking "Review", the application sends the code to OpenAI API
 
-.The API analyzes the code
+. The API analyzes the code
 
-.Suggestions are displayed dynamically on the screen
+. Suggestions are displayed dynamically on the screen
 
 
 📈 What I Learned
 
-.Integrating third-party APIs in React
+. Integrating third-party APIs in React
 
-.Managing state using React Hooks
+. Managing state using React Hooks
 
-.Handling asynchronous operations
+. Handling asynchronous operations
 
-.Error handling in frontend applications
+. Error handling in frontend applications
 
-.Working with environment variables
+. Working with environment variables
