@@ -1,5 +1,7 @@
 import React, { useState } from 'react'
 import Navbar from './components/Navbar'
+import CodeInput from './components/CodeInput';
+import ReviewResult from './components/ReviewResult';
 
 const App = () => {
 
